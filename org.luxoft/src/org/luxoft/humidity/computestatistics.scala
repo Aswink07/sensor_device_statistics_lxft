@@ -1,6 +1,5 @@
 //--------------------------------------------------------------------------------------
 //Problem statement : Calculates statistics from humidity sensor data..
-//Developer : Aswin Kavumpurath
 //Developed date : 05-08-2022
 //--------------------------------------------------------------------------------------
 package org.luxoft.humidity
